@@ -4,7 +4,7 @@ Only listing significant user-visible, not internal code cleanups and minor bug 
 
 ## 0.11.0 (upcoming)
 
-* Pending changelog
+* Upgrade Curator to 3.3.0
 
 ## 0.10.0 (February 23, 2017)
 
